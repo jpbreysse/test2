@@ -6,3 +6,10 @@ CREATE TABLE users (
 
 SELECT * FROM users;
 
+list database
+\l
+
+
+\c database_name
+
+
